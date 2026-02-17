@@ -1,6 +1,6 @@
 # Requirements for running the Streamlit app and notebook
-streamlit >= 1.54.0
-pandas == 3.0.0
-plotly == 5.13.1
-numpy >= 1.24.4
-matplotlib == 3.7.1
+streamlit==1.54.0
+pandas==2.2.3
+numpy==1.24.4
+plotly==5.13.1
+matplotlib==3.7.1
